@@ -1,16 +1,59 @@
-# React + Vite
+# 🦔 Sonic Character Database
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **O banco de dados definitivo para fãs de Sonic. Gotta Search Fast! 💨**
 
-Currently, two official plugins are available:
+Bem-vindo ao **Sonic Character Database**!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este projeto está sendo desenvolvido com **React** e **Vite** e tem como objetivo reunir informações sobre os personagens do universo de **Sonic the Hedgehog** em um único lugar.
 
-## React Compiler
+Aqui você poderá pesquisar personagens, descobrir suas habilidades, transformações, curiosidades e comparar seus poderes. Seja você um fã que cresceu jogando Sonic ou alguém que gosta de discutir quem venceria uma batalha entre **Sonic**, **Shadow** e **Silver**, este projeto foi feito para você.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚛️ React
+* ⚡ Vite
+* 💛 JavaScript
+* 🎨 CSS
+
+---
+
+## 📌 Funcionalidades Planejadas
+
+* 🔍 Pesquisa de personagens por nome
+* 🦔 Cards com informações dos personagens
+* 🏷️ Filtros (Herói, Vilão, Android, etc.)
+* 📄 Página com detalhes completos de cada personagem
+* ⚔️ Comparação entre personagens
+* ⭐ Sistema de favoritos *(planejado)*
+* 📱 Interface responsiva para celular e computador
+
+---
+
+## 🎯 Objetivo
+
+Este projeto faz parte dos meus estudos em desenvolvimento Front-end.
+
+Além de praticar **React**, meu objetivo é criar uma aplicação organizada, escalável e divertida, unindo programação com uma das franquias que mais gosto: **Sonic the Hedgehog**.
+
+---
+
+## 📷 Status do Projeto
+
+🚧 **Em desenvolvimento**
+
+Ainda estamos nos primeiros passos da aventura, mas a cada commit este projeto fica mais rápido... quase no ritmo do Sonic! 🦔💨
+
+---
+
+## 💡 Futuras Atualizações
+
+* 🌐 Integração com API
+* 🔄 Comparação avançada entre personagens
+* 🎵 Informações sobre jogos e trilhas sonoras
+* 📈 Melhorias na interface e na experiência do usuário
+
+---
+
+### 💙 "Gotta Go Fast!"

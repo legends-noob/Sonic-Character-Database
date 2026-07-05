@@ -1,7 +1,20 @@
-{
-  "id": 1,
-  "nome": "Sonic",
-  "especie": "Ouriço",
-  "alinhamento": "Herói",
-  "primeiraAparicao": "Sonic the Hedgehog (1991)"
-}
+[
+  {
+    "id": 1,
+    "nome": "Sonic",
+    "especie": "Ouriço",
+    "alinhamento": "Herói",
+    "primeiraAparicao": "Sonic the Hedgehog (1991)",
+    "descricao": "O ouriço mais rápido do mundo.",
+    "imagem": "/images/sonic.png"
+  },
+  {
+    "id": 2,
+    "nome": "Shadow",
+    "especie": "Ouriço",
+    "alinhamento": "Anti-herói",
+    "primeiraAparicao": "Sonic Adventure 2",
+    "descricao": "A Forma de Vida Suprema.",
+    "imagem": "/images/shadow.png"
+  }
+]

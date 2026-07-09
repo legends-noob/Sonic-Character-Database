@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import SearchBar from "../components/SearchBar";
 import Filter from "../components/Filter";
 import Footer from "../components/Footer";
-import CharacterCard from "../components/CharacterCard";
+import CharacterGrid from "../components/CharacterGrid";
 
 function Home() {
   return (
@@ -11,12 +11,7 @@ function Home() {
       <SearchBar />
       <Filter />
 
-      <CharacterCard
-        nome="Sonic"
-        especie="Ouriço"
-        alinhamento="Herói"
-        imagem="/images/sonic.png"
-      />
+      <CharacterGrid />
 
       <Footer />
     </>

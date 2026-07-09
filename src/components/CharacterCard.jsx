@@ -12,9 +12,11 @@ function CharacterCard(props) {
         className="character-image"
       />
 
-      <p>{props.alinhamento}</p>
+      <p className="categoria">{props.categoria}</p>
 
-      <p>Espécie: {props.especie}</p>
+      <p className="especie">
+        Espécie: {props.especie}
+      </p>
 
       <button>Ver detalhes</button>
 

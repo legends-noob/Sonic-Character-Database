@@ -2,8 +2,9 @@
   {
     "id": 1,
     "nome": "Sonic",
+    "categoria": "Herói",
     "especie": "Ouriço",
-    "alinhamento": "Herói",
+    "cor": "#1565C0",
     "primeiraAparicao": "Sonic the Hedgehog (1991)",
     "descricao": "O ouriço mais rápido do mundo.",
     "imagem": "/images/sonic.png"
@@ -11,10 +12,22 @@
   {
     "id": 2,
     "nome": "Shadow",
+    "categoria": "Anti-herói",
     "especie": "Ouriço",
-    "alinhamento": "Anti-herói",
+    "cor": "#D32F2F",
     "primeiraAparicao": "Sonic Adventure 2",
     "descricao": "A Forma de Vida Suprema.",
     "imagem": "/images/shadow.png"
+  },
+  {
+    "id": 3,
+    "nome": "Silver",
+    "categoria": "Herói",
+    "especie": "Ouriço",
+    "cor": "#B0BEC5",
+    "primeiraAparicao": "Sonic the Hedgehog (2006)",
+    "descricao": "Um ouriço vindo do futuro.",
+    "imagem": "/images/silver.png"
   }
 ]
+  

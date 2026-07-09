@@ -1,29 +1,56 @@
-.filter-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 25px;
-    gap: 10px;
+.filter-container{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    margin:40px 0;
 }
 
-.filter-container label {
-    font-size: 20px;
-    font-weight: bold;
-    color: #1e1e2f;
+.filter-title{
+
+    color:#FFD000;
+
+    font-size:28px;
+
+    margin-bottom:20px;
 }
 
-.filter-select {
-    width: 250px;
-    padding: 10px;
-    border-radius: 10px;
-    border: 2px solid #1e88e5;
-    font-size: 16px;
-    cursor: pointer;
-    transition: 0.3s;
+.filter-buttons button{
+
+    background:#0B1F4D;
+
+    color:white;
+
+    border:2px solid #1E88E5;
+
+    border-radius:25px;
+
+    padding:12px 20px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+    font-size:16px;
+
+    font-weight:bold;
 }
 
-.filter-select:focus {
-    outline: none;
-    border-color: #ffcc00;
-    box-shadow: 0 0 8px rgba(255, 204, 0, 0.6);
+.filter-buttons button:hover{
+
+    background:#1565C0;
+
+    transform:translateY(-3px);
+}
+
+.active{
+
+    background:#FFD000 !important;
+
+    color:#0B1F4D !important;
+
+    border-color:#FFD000 !important;
 }

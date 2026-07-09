@@ -3,15 +3,35 @@ import "./Filter.css";
 function Filter() {
   return (
     <div className="filter-container">
-      <label htmlFor="categoria">Categoria</label>
 
-      <select id="categoria" className="filter-select">
-        <option>Todos</option>
-        <option>Heróis</option>
-        <option>Vilões</option>
-        <option>Anti-heróis</option>
-        <option>Robôs</option>
-      </select>
+      <h2 className="filter-title">
+        Categorias
+      </h2>
+
+      <div className="filter-buttons">
+
+        <button className="active">
+          Todos
+        </button>
+
+        <button>
+          Heróis
+        </button>
+
+        <button>
+          Vilões
+        </button>
+
+        <button>
+          Anti-heróis
+        </button>
+
+        <button>
+          Robôs
+        </button>
+
+      </div>
+
     </div>
   );
 }
